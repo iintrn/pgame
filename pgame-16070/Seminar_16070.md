@@ -1,12 +1,14 @@
+### IIN TARNO
+
 DATA SCIENSE
 Oleh Dr. Ing. Ridho Rahmadi, S.Kom., M.Sc.
 
 Values of data
-ï patterns
-ï clusters
-ï classes
-ï principal components
-ï independent components
+‚Ä¢ patterns
+‚Ä¢ clusters
+‚Ä¢ classes
+‚Ä¢ principal components
+‚Ä¢ independent components
 
 ? Orchestrated values yield models
 Clinical data diagnosis models
@@ -23,21 +25,21 @@ meaningful models
 
 Deep Learning Application 35 | 46
 Applications to video (clickable examples):
-ï Natural environment reading
-ï Face recognition
-ï Behavior recognition
-ï Action recognition
-ï Environmental behavior recognition
-ï Crowd Learning
+‚Ä¢ Natural environment reading
+‚Ä¢ Face recognition
+‚Ä¢ Behavior recognition
+‚Ä¢ Action recognition
+‚Ä¢ Environmental behavior recognition
+‚Ä¢ Crowd Learning
 
 The fourth industrial revolution
-ï Virtual and physical systems
+‚Ä¢ Virtual and physical systems
 flexible integration
-ï A fusion of emerging technologies
+‚Ä¢ A fusion of emerging technologies
 and their interaction across the
 physical, digital and biological
 domains
-ï The technologies and innovation are
+‚Ä¢ The technologies and innovation are
 diffusing much faster and more
 widely
 
@@ -56,9 +58,9 @@ industrial revolution has its
 effect on Indonesia
 
 Thoughts
-ï The moral responsibilities
+‚Ä¢ The moral responsibilities
 of an intellectual
-ï Universities and thus the
+‚Ä¢ Universities and thus the
 intellectuals should focus
 on a data science
 curriculum with strong
@@ -113,23 +115,23 @@ AGENDA
 7. Sharing Knowledge
 8. Asosiasi Forensik Digital Indonesia (AFDI)
 
-ï Gaya Hidup Digital
-ï Bring Your Own Device
-ï Our Digital Day
-ï Semesta Digital
-ï Identitas Digital
-ï Jejak Digital
-ï Resiko
-ï Kaidah 
-ï Marcus Tullius Cicero (106-43 SM)
-ï Seorang filsuf,ahli hukum, dan ahli politik kelahiran Roma.
+‚Ä¢ Gaya Hidup Digital
+‚Ä¢ Bring Your Own Device
+‚Ä¢ Our Digital Day
+‚Ä¢ Semesta Digital
+‚Ä¢ Identitas Digital
+‚Ä¢ Jejak Digital
+‚Ä¢ Resiko
+‚Ä¢ Kaidah 
+‚Ä¢ Marcus Tullius Cicero (106-43 SM)
+‚Ä¢ Seorang filsuf,ahli hukum, dan ahli politik kelahiran Roma.
 Ubi Societas, Ibi Ius, Ibi Crime 
 ada masyarakat, ada hukum dan ada kejahatan.
 
-ï CYBER CRIME
+‚Ä¢ CYBER CRIME
 introduction
 
-ï Framework Umum 
+‚Ä¢ Framework Umum 
 Traditional vs Cyber (Crime) 
 
 Klasifikasi Cybercrime
@@ -152,16 +154,16 @@ ISSUE Utamanya
 Attack Vulnerability Exploit Risk
 Violation of Law
 
-ï Security vs Forensics
-ï Kedokteran Forensik 
-ï Cabang Ilmu Forensik 
+‚Ä¢ Security vs Forensics
+‚Ä¢ Kedokteran Forensik 
+‚Ä¢ Cabang Ilmu Forensik 
  
 
 
-ï History
-ï Forensik 
-ï Terminologi 
-ï Scientific Methods
+‚Ä¢ History
+‚Ä¢ Forensik 
+‚Ä¢ Terminologi 
+‚Ä¢ Scientific Methods
 Pengulangan 
 alat-alat forensik digital harus mampu mereplikasi hasil yang sama saat menggunakan metodologi yang sama persis 
 Reproduktifitas 
@@ -174,7 +176,7 @@ alat-alat forensik digital memberikan hasil yang sama bahkan dalam lingkungan pe
  
 In legal cases, computer forensic techniques are frequently used to analyze computer systems belonging to defendants (in criminal cases) or litigants (in civil cases).
 
-ï Locard Exchange
+‚Ä¢ Locard Exchange
 
 Every contact between two different parties will definitely leave a new trace
 
@@ -182,21 +184,21 @@ Every contact between two different parties will definitely leave a new trace
 ? Sir Edmond Locard (1877-1966)
 ? Sherlock Holmes of France
 ? Created a very simple idea, that while obvious to us now, was (and still is) quite powerful to the science of Forensics.
-? Being able to find the ìtraceî is only limited by our abilities, knowledge, and degree of refinement of techniques & equipment 
+? Being able to find the ‚Äútrace‚Äù is only limited by our abilities, knowledge, and degree of refinement of techniques & equipment 
 ? Locard
 Makna Locard Exchange Principle
 ? Setiap kali seseorang melakukan kontak dengan orang lain, tempat atau suatu hal, akan menghasilkan pertukaran bahan fisik.
-? ìEvery contact leaves a traceî atau ìSetiap kontak meninggalkan jejakî.
+? ‚ÄúEvery contact leaves a trace‚Äù atau ‚ÄúSetiap kontak meninggalkan jejak‚Äù.
 ? Check List
-ï Apakah ada dua item?
-ï Apakah ada kontak?
-ï Apakah ada pertukaran materi?
+‚Ä¢ Apakah ada dua item?
+‚Ä¢ Apakah ada kontak?
+‚Ä¢ Apakah ada pertukaran materi?
 
 
 ? Cyber Locard Exchange Principle
 
 Pemeriksaan yang melibatkan bit dan byte informasi. 
-Jika ditemukan suatu kejahatan siber terjadi dan prinsip Locardís Exchange tidak berlaku, maka prinsip Cyber Exchange dapat menyempurnakan sehingga proses pemeriksaan forensik digital tetap dapat dilakukan untuk memecahkan kasus tersebut. 
+Jika ditemukan suatu kejahatan siber terjadi dan prinsip Locard‚Äôs Exchange tidak berlaku, maka prinsip Cyber Exchange dapat menyempurnakan sehingga proses pemeriksaan forensik digital tetap dapat dilakukan untuk memecahkan kasus tersebut. 
 
 
 3. Daubert and Frye Standard
@@ -211,12 +213,12 @@ Jika ditemukan suatu kejahatan siber terjadi dan prinsip Locardís Exchange tidak
 4. Which Standard ?
 
 Frye 
-ï Scientific Methods, general acceptance. Pendekatan konservatif untuk memutuskan apakah akan mengakui hasil tes berdasarkan teknik ilmiah yang baru atau percobaan.
-ï Menurut Frye Standard, bukti ilmiah dapat diakui jika bidang keilmuan terhadap penemuan barang bukti tersebut diterima oleh komunitas ilmiah pada umumnya. 
+‚Ä¢ Scientific Methods, general acceptance. Pendekatan konservatif untuk memutuskan apakah akan mengakui hasil tes berdasarkan teknik ilmiah yang baru atau percobaan.
+‚Ä¢ Menurut Frye Standard, bukti ilmiah dapat diakui jika bidang keilmuan terhadap penemuan barang bukti tersebut diterima oleh komunitas ilmiah pada umumnya. 
 
 Daubert 
-ï The admissibility of the testimony of the expert. 
-ï Daubert standart menyediakan aturan bukti mengenai diterimanya kesaksian ahli saksi.
+‚Ä¢ The admissibility of the testimony of the expert. 
+‚Ä¢ Daubert standart menyediakan aturan bukti mengenai diterimanya kesaksian ahli saksi.
 
 
 5. Development Digital Forensics
@@ -229,7 +231,7 @@ Daubert
 
 7. Aktivitas Forensik Digital
 
-ìPhysical evidence cannot be wrong, it cannot perjure itself, it cannot be wholly absent. Only HUMAN failure to find it, study and understand it, can diminish its valueî.
+‚ÄúPhysical evidence cannot be wrong, it cannot perjure itself, it cannot be wholly absent. Only HUMAN failure to find it, study and understand it, can diminish its value‚Äù.
 Maka investigator harus menggunakan berbagai sudut pandang untuk dapat menemukan gambaran dari scene dan bukti yang sedang di investigasi.
 
 8. Chain of Custody
@@ -279,7 +281,7 @@ Proses penyelidikan menjadi rumit ketika suatu kasus melibatkan banyak perangkat
 
 ? Peralihan ke Live and cloud forensic
 
-Terdapat peningkatan mengenai jumlah investigasi yang mengharuskan perangkat tersebut dalam keadaan ìonî atau beroperasi, misalnya saja karena indikasi malware pada sistem komputer, sehingga harus dilakukan tracking terhadap pergerakan malware ìmalware movementî
+Terdapat peningkatan mengenai jumlah investigasi yang mengharuskan perangkat tersebut dalam keadaan ‚Äúon‚Äù atau beroperasi, misalnya saja karena indikasi malware pada sistem komputer, sehingga harus dilakukan tracking terhadap pergerakan malware ‚Äúmalware movement‚Äù
 
 ? Encryption by Default
 
@@ -304,7 +306,7 @@ Kita tidak boleh luput akan hal tersebut, karena memungkinkan data yang ada (art
 
 ? Standart, Guide, Procedural, Law Enforcement and Legal Aspect Yang Terbatas 
 
-Standar Prosedural maupun Panduan terhadap penanganan Bukti Digital saat ini lebih terfokus pada sistem komputer dibandingkan ìmodern malware, cloud, based system, dan networked devicesî
+Standar Prosedural maupun Panduan terhadap penanganan Bukti Digital saat ini lebih terfokus pada sistem komputer dibandingkan ‚Äúmodern malware, cloud, based system, dan networked devices‚Äù
 
 
 ? Challenges of Digital Forensics
@@ -312,28 +314,28 @@ Standar Prosedural maupun Panduan terhadap penanganan Bukti Digital saat ini leb
 According to Fahdi, Clarke & Furnell (2013), th challenges of digital forensics can be categorized into three parts.
 
 ? Technical challenges
-ï Differing media formats
-ï Encryption
-ï Steganography
-ï Anti-forensics
-ï live acquisition and analysis
+‚Ä¢ Differing media formats
+‚Ä¢ Encryption
+‚Ä¢ Steganography
+‚Ä¢ Anti-forensics
+‚Ä¢ live acquisition and analysis
 
 ? Legal challenges
-ï Jurisdictional issues
-ï Privacy issues 
-ï a lack of standardized international legislationDiffering media formats
+‚Ä¢ Jurisdictional issues
+‚Ä¢ Privacy issues 
+‚Ä¢ a lack of standardized international legislationDiffering media formats
 
 ? Resource challenges
-ï Volume of data
-ï Time taken to acquire 
-ï Analyze forensic media
+‚Ä¢ Volume of data
+‚Ä¢ Time taken to acquire 
+‚Ä¢ Analyze forensic media
 
 24. Issue Penelitian 
 
 ? Digital forensics is a  largely practitioner-driven field.
-ï Immature Scientific Discipline
-ï While many fields have well-defined research agendas, evolution of the field of digital forensics has  been largely driven by practitioners in the field.
-ï As a  result, the majority of the tools and practice have  been developed in response to a diverse set of  specific threats or scenarios, rather than as the result  of a research and development plan.
+‚Ä¢ Immature Scientific Discipline
+‚Ä¢ While many fields have well-defined research agendas, evolution of the field of digital forensics has  been largely driven by practitioners in the field.
+‚Ä¢ As a  result, the majority of the tools and practice have  been developed in response to a diverse set of  specific threats or scenarios, rather than as the result  of a research and development plan.
 
 25. Prospek Bisnis Forensik Digital
 26. Digital Forensics ECOSYSTEM
