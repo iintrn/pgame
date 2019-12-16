@@ -1,4 +1,15 @@
-### IIN TARNO
+### Dirangkum oleh :
+### NPM : 16070
+### Nama : Iin Tarno
+***
+## Materi seminar I
+### Waktu : 10/12/2019 : 09:30
+### Tempat : Aula UMMU
+### Dorasi 30 Menit, Sesi ke-1
+### Nama pemateri : Abdul Haris Muhammad, ST.,M.Kom
+### Judul materi : Digital Lifestyle
+### Isi materi
+
 
 DATA SCIENSE
 Oleh Dr. Ing. Ridho Rahmadi, S.Kom., M.Sc.
